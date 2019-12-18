@@ -1,8 +1,9 @@
 {
   "deps": [
     {
+       "tag": "buildfix",
       "type": "github",
-      "repo": "jemc/ponycc"
+      "repo": "patallen/ponycc"
     }
   ]
 }
